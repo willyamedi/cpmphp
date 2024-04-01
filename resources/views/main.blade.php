@@ -11,25 +11,25 @@
     <!-- ======== Page title ============ -->
     <title>Custom parfum mobil Indonesia</title>
     <!--<< Favcion >>-->
-    <link rel="shortcut icon" href="assets/img/logo/favicon.svg" />
+    <link rel="shortcut icon" href="{{ asset('assets/img/logo/favicon.svg') }}" />
     <!--<< Bootstrap min.css >>-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" />
     <!--<< Font Awesome.css >>-->
-    <link rel="stylesheet" href="assets/css/font-awesome.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.css') }}" />
     <!--<< Animate.css >>-->
-    <link rel="stylesheet" href="assets/css/animate.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}" />
     <!--<< Magnific Popup.css >>-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}" />
     <!--<< MeanMenu.css >>-->
-    <link rel="stylesheet" href="assets/css/meanmenu.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.css') }}" />
     <!--<< Swiper Bkkundle.css >>-->
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}" />
     <!--<< Nice Select.css >>-->
-    <link rel="stylesheet" href="assets/css/nice-select.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/nice-select.css') }}" />
     <!--<< Main.css >>-->
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}" />
     <!--<< Style.css >>-->
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
   </head>
 
   <body>
@@ -79,7 +79,7 @@
             >
               <div class="offcanvas__logo">
                 <a href="index.html">
-                  <img src="assets/img/logo/header-logo.svg" alt="logo-img" />
+                  <img src="assets/img/logo/header-logo.svg') }}" alt="logo-img" />
                 </a>
               </div>
               <div class="offcanvas__close">
@@ -147,3 +147,7 @@
     <div class="offcanvas__overlay"></div>
 
     @include('components.mainmenu')
+
+    @yield('content')
+    
+    @include('components.footer')

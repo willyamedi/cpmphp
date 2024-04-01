@@ -18,7 +18,7 @@
                                     <nav id="mobile-menu">
                                         <ul>
                                             <li>
-                                                <a href="index-3.html">Home</a>
+                                                <a href="/">Home</a>
                                             </li>
 
                                             <li>
@@ -34,7 +34,7 @@
                                             </li>
 
                                             <li>
-                                                <a href="contact.html">Contact us</a>
+                                                <a href="/contactus">Contact us</a>
                                             </li>
                                         </ul>
                                     </nav>
