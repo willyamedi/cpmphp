@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('faq')
+@section('content')
 
 <!--<< Breadcrumb Section Start >>-->
     <div class="breadcrumb-wrapper section-padding bg-cover"
