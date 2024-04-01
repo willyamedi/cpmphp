@@ -24,3 +24,11 @@ Route::get('/contactus', function () {
 Route::get('/faq', function () {
     return view('faq');
 });
+
+Route::get('/offer', function () {
+    return view('offer');
+});
+
+Route::get('/project', function () {
+    return view('project');
+});
