@@ -22,15 +22,15 @@
                                             </li>
 
                                             <li>
-                                                <a href="project.html">Our portfolio</a>
+                                                <a href="/project">Our portfolio</a>
                                             </li>
 
                                             <li>
-                                                <a href="about.html">Get an offer</a>
+                                                <a href="/offer">Get an offer</a>
                                             </li>
 
                                             <li>
-                                                <a href="faq.html">Frequently asked question</a>
+                                                <a href="/faq">Frequently asked question</a>
                                             </li>
 
                                             <li>

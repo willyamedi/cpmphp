@@ -1,4 +1,9 @@
- <!--<< Breadcrumb Section Start >>-->
+@extends('main')
+
+@section('content')
+
+
+<!--<< Breadcrumb Section Start >>-->
  <div
  class="breadcrumb-wrapper bg-cover section-padding"
  style="background-image: url('assets/img/breadcrumb.jpg')"
@@ -283,3 +288,5 @@
    </div>
  </div>
 </section>
+
+@endsection
