@@ -17,14 +17,14 @@
                 <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                     <li>
                         <a href="index.html">
-                            Home Page
+                            Home
                         </a>
                     </li>
                     <li>
                         <i class="fal fa-minus"></i>
                     </li>
                     <li>
-                        Our Faq
+                        Frequently Asked Question
                     </li>
                 </ul>
             </div>
