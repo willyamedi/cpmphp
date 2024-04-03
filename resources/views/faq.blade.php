@@ -1,10 +1,8 @@
 @extends('main')
 
 @section('content')
-
-<!--<< Breadcrumb Section Start >>-->
-    <div class="breadcrumb-wrapper section-padding bg-cover"
-        style="background-image: url('assets/img/breadcrumb.jpg');">
+    <!--<< Breadcrumb Section Start >>-->
+    <div class="breadcrumb-wrapper section-padding bg-cover" style="background-image: url('assets/img/breadcrumb.jpg');">
         <div class="layer-shape wow fadeInLeft" data-wow-delay=".3s">
             <img src="assets/img/layer-shape-3.png" alt="shape-img">
         </div>
@@ -31,7 +29,7 @@
         </div>
     </div>
 
-    <!-- Faq Section Start -->
+    <!--<< faqyu >>-->
     <section class="faq-section fix section-padding">
         <div class="container">
             <div class="faq-wrapper-2">
@@ -48,25 +46,9 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
-                        <div class="faq-sidebar">
-                            <div class="search-widget wow fadeInUp" data-wow-delay=".3s">
-                                <form action="#">
-                                    <input type="text" placeholder="Search....">
-                                    <button type="submit"><i class="far fa-search"></i></button>
-                                </form>
-                            </div>
-                            <div class="side-post bg-cover wow fadeInUp" data-wow-delay=".5s"
-                                style="background-image: url('assets/img/faq/faq-4.jpg');">
-                                <h3>
-                                    Azent a smart <br>
-                                    agency
-                                </h3>
-                            </div>
-                        </div>
-                    </div>
+
                     <div class="col-lg-1"></div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-12">
                         <div class="faq-content style-2">
                             <div class="faq-accordion">
                                 <div class="accordion" id="accordion">
@@ -160,7 +142,8 @@
                                                 Apakah tim CPM bisa membantu proses design?
                                             </button>
                                         </h5>
-                                        <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#accordion">
+                                        <div id="faq5" class="accordion-collapse collapse"
+                                            data-bs-parent="#accordion">
                                             <div class="accordion-body">
                                                 Ya kami memberikan servis untuk konsultasi design dari file mentah ke
                                                 layout final secara gratis.
@@ -240,6 +223,8 @@
         </div>
     </section>
 
+
+    <!--<< cta >>-->
     <section class="cta-section-2 fix section-padding background-image"
         style="background-image: url('assets/img/cta-banner/01.jpg')">
         <div class="shape-image">
@@ -265,5 +250,81 @@
         </div>
     </section>
 
-    @endsection
-    
+    <!-- Testimonial Section Start -->
+    <section class="testimonial-section section-padding fix section-bg">
+        <div class="left-shape">
+            <img src="assets/img/client/left-shape.png" alt="shape-img">
+        </div>
+        <div class="right-shape">
+            <img src="assets/img/client/right-shape.png" alt="shape-img">
+        </div>
+        <div class="container">
+            <div class="section-title text-center">
+                <span class="wow fadeInUp">Success stories</span>
+                <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                    Why customers love to <br>
+                    working with us
+                </h2>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="testimonial-card-items">
+                        <div class="testimonial-image bg-cover"
+                            style="background-image: url('assets/img/client/01.jpg');"></div>
+                        <div class="icon">
+                            <i class="flaticon-quotation"></i>
+                        </div>
+                        <div class="testimonial-content">
+                            <p>
+                                Bring to the table win-win strategies to ensure proactive domination. At the end of the day
+                                going forward normal that has evolved from
+                                operational X is on the
+                            </p>
+                            <h4>Janes Cooper</h4>
+                            <span>Designer</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
+                    <div class="testimonial-card-items active">
+                        <div class="testimonial-image bg-cover"
+                            style="background-image: url('assets/img/client/02.jpg');"></div>
+                        <div class="icon">
+                            <i class="flaticon-quotation"></i>
+                        </div>
+                        <div class="testimonial-content">
+                            <p>
+                                Bring to the table win-win strategies to ensure proactive domination. At the end of the day
+                                going forward normal that has evolved from
+                                operational X is on the
+                            </p>
+                            <h4>Jack Daniel
+                            </h4>
+                            <span>Designer</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                    <div class="testimonial-card-items">
+                        <div class="testimonial-image bg-cover"
+                            style="background-image: url('assets/img/client/03.jpg');"></div>
+                        <div class="icon">
+                            <i class="flaticon-quotation"></i>
+                        </div>
+                        <div class="testimonial-content">
+                            <p>
+                                Bring to the table win-win strategies to ensure proactive domination. At the end of the day
+                                going forward normal that has evolved from
+                                operational X is on the
+                            </p>
+                            <h4>Ava Olivia</h4>
+                            <span>Designer</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+@endsection

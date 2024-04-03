@@ -70,45 +70,6 @@
        </div>
     </section>
 
-    <!-- Contact Section Start -->
-    <section class="contact-section-2 fix section-padding pt-0">
-        <div class="container">
-            <div class="contact-form-items">
-                <div class="title">
-                    <h2>Let’s Get in Touch</h2>
-                    <p>Your email address will not be published. Required fields are marked *</p>
-                </div>
-                <form action="contact.php" id="contact-form" method="POST">
-                    <div class="row g-4">
-                        <div class="col-lg-6">
-                            <div class="form-clt">
-                                <input type="text" name="name" id="name" placeholder="Your Name*">
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="form-clt">
-                                <input type="text" name="email" id="email" placeholder="Your Email*">
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="form-clt">
-                                <input type="text" name="text" id="text" placeholder="Website*">
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="form-clt">
-                                <textarea name="message" id="message" placeholder="Write Message*"></textarea>
-                            </div>
-                        </div>
-                        <div class="col-lg-7">
-                            <button type="submit" class="theme-btn">
-                                SEND YOUR MEASSAGE
-                            </button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </section>
+    
 
     @endsection
