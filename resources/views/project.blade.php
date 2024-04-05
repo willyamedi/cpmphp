@@ -21,11 +21,8 @@
                             <div class="col-xl-8">
                                 <div class="hero-content">
                                     <div class="d-sm-inline video-play-btn">
-                                        <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I"
-                                            class="video-popup ripple play-video" data-animation="fadeInUp"
-                                            data-delay="1.3s"><i class="fas fa-play"></i></a>
-                                        <span class="ms-3 d-line" data-animation="fadeInUp"
-                                            data-delay="1.3s">Showreel</span>
+
+
                                     </div>
                                     <h1 class="text-white" data-animation="fadeInUp" data-delay="1.5s">
                                         Jadikan Brand <br />
