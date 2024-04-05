@@ -118,12 +118,11 @@
                             <div class="project-image bg-cover"
                                 style="background-image: url('assets/img/project/14.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Insureka</a>
                                     </h4>
                                 </div>
                             </div>
@@ -134,12 +133,11 @@
                             <div class="project-image bg-cover"
                                 style="background-image: url('assets/img/project/15.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Titipku</a>
                                     </h4>
                                 </div>
                             </div>
@@ -150,12 +148,11 @@
                             <div class="project-image bg-cover"
                                 style="background-image: url('assets/img/project/16.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">JXB</a>
                                     </h4>
                                 </div>
                             </div>
@@ -166,12 +163,11 @@
                             <div class="project-image bg-cover"
                                 style="background-image: url('assets/img/project/06.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Majamojo</a>
                                     </h4>
                                 </div>
                             </div>
@@ -216,6 +212,21 @@
                                 <img src="assets/img/brand/05.png" alt="brand-img" />
                             </div>
                         </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/06.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/07.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/08.png" alt="brand-img" />
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -256,7 +267,7 @@
         </div>
     </section>
 
-    <!-- Project Section Start -->
+    <!-- Project Section Start 2-->
     <section class="project-section-4 section-padding fix" id="project">
         <div class="shape-image">
             <img src="assets/img/project/shape-3.png" alt="shape-img" />
@@ -275,14 +286,13 @@
                     <div class="swiper-slide">
                         <div class="project-items-3">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/14.jpg')">
+                                style="background-image: url('assets/img/project/17.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Cakra Motor</a>
                                     </h4>
                                 </div>
                             </div>
@@ -291,14 +301,13 @@
                     <div class="swiper-slide">
                         <div class="project-items-3">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/15.jpg')">
+                                style="background-image: url('assets/img/project/18.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Aisin</a>
                                     </h4>
                                 </div>
                             </div>
@@ -307,14 +316,13 @@
                     <div class="swiper-slide">
                         <div class="project-items-3">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/16.jpg')">
+                                style="background-image: url('assets/img/project/19.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Dayteatox</a>
                                     </h4>
                                 </div>
                             </div>
@@ -323,14 +331,13 @@
                     <div class="swiper-slide">
                         <div class="project-items-3">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/06.jpg')">
+                                style="background-image: url('assets/img/project/20.jpg')">
                                 <div class="project-content">
-                                    <a href="project-details.html" class="icon">
-                                        <i class="far fa-arrow-right"></i>
+
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Street motorsport</a>
                                     </h4>
                                 </div>
                             </div>
@@ -360,9 +367,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="cta-image wow fadeInUp" data-wow-delay=".4s">
-                    <img src="assets/img/cta.png" alt="img" />
-                </div>
+                
             </div>
         </div>
     </section>
@@ -375,14 +380,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/14.jpg')">
+                                style="background-image: url('assets/img/project/21.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Nivea</a>
                                     </h4>
                                 </div>
                             </div>
@@ -391,14 +396,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/15.jpg')">
+                                style="background-image: url('assets/img/project/22.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Red bull</a>
                                     </h4>
                                 </div>
                             </div>
@@ -407,14 +412,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/16.jpg')">
+                                style="background-image: url('assets/img/project/23.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Ms Glow Men</a>
                                     </h4>
                                 </div>
                             </div>
@@ -423,12 +428,12 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/10.jpg')">
+                                style="background-image: url('assets/img/project/24.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
                                         <a href="project-details.html">Digital Consulting</a>
                                     </h4>
@@ -439,14 +444,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/11.jpg')">
+                                style="background-image: url('assets/img/project/25.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Surabaya</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Kongregasi SJMJ</a>
                                     </h4>
                                 </div>
                             </div>
@@ -455,14 +460,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/12.jpg')">
+                                style="background-image: url('assets/img/project/26.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Imigrasi</a>
                                     </h4>
                                 </div>
                             </div>
@@ -471,14 +476,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/04.jpg')">
+                                style="background-image: url('assets/img/project/27.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Nufarm</a>
                                     </h4>
                                 </div>
                             </div>
@@ -487,14 +492,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/09.jpg')">
+                                style="background-image: url('assets/img/project/28.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Chiayo</a>
                                     </h4>
                                 </div>
                             </div>
@@ -503,14 +508,14 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                         <div class="project-items-3 mt-0">
                             <div class="project-image bg-cover"
-                                style="background-image: url('assets/img/project/13.jpg')">
+                                style="background-image: url('assets/img/project/29.jpg')">
                                 <div class="project-content">
                                     <a href="project-details.html" class="icon">
                                         <i class="far fa-arrow-right"></i>
                                     </a>
-                                    <p>San Fransisco</p>
+                                    <p>Jakarta</p>
                                     <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
+                                        <a href="project-details.html">Heloklin</a>
                                     </h4>
                                 </div>
                             </div>
