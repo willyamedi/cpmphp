@@ -37,7 +37,7 @@
                 <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="map-items">
                         <div class="googpemap">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.445706373162!2d106.69035197526979!3d-6.2047880607816435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f947a482dfff%3A0x5ac96735abf3309d!2sCustom%20parfum%20mobil%20.id!5e0!3m2!1sen!2sid!4v1712484758136!5m2!1sen!2sid" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
                     </div>
                 </div>
@@ -70,6 +70,6 @@
        </div>
     </section>
 
-    
+
 
     @endsection
