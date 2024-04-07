@@ -129,6 +129,64 @@
         </div>
     </section>
 
+    <!-- Brand Section Start -->
+    <div class="section-title text-center">
+        <h2 class="wow fadeInUp" data-wow-delay=".3s">Telah Diliput Oleh</h2>
+    </div>
+    <div class="brand-section-3 fix section-padding">
+        <div class="layer-shape">
+            <img src="assets/img/layer-shape.png" alt="shape-img" />
+        </div>
+        <div class="container">
+            <div class="brand-wrapper style-3">
+                <div class="swiper brand-slider-2">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/01.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/02.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/03.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/04.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/05.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/06.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/07.png" alt="brand-img" />
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="brand-image">
+                                <img src="assets/img/brand/08.png" alt="brand-img" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Project Section Start -->
     <section class="project-section-3 section-padding">
         <div class="line-area">
