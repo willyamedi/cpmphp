@@ -327,4 +327,33 @@
     </section>
 
 
+    <!-- contact us -->
+    <div class="col-xl-6 col-lg-6 mt-5 mt-lg-0">
+        <div class="contact-info-content">
+            <div class="section-title wow fadeInUp" data-wow-delay=".3s">
+                <h2>Hubungi kami</h2>
+            </div>
+            <p class="mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
+                Hubungi kami untuk melakukan janji temu terlebih dahulu
+            </p>
+            <div class="info-list">
+                <h3 class="wow fadeInUp" data-wow-delay=".3s">Contact Info</h3>
+                <div class="info-items mb-3 wow fadeInUp" data-wow-delay=".5s">
+                    <h5>Address</h5>
+                    <p>2Green village blok boulevard D no 5, Jl. KH Hasyim Ashari, RT.001/RW.007, Nerogtog, Kec. Pinang,
+                        Kota Tangerang, Banten 15146, Indonesia</p>
+                </div>
+                <div class="info-items mb-3 wow fadeInUp" data-wow-delay=".7s">
+                    <h5>Phone</h5>
+                    <a href="tel:+6282126151151">+62821-26-151-151 </a>
+                    <div class="info-items wow fadeInUp" data-wow-delay=".9s">
+                        <h5>Email</h5>
+                        <a href="#0">info@customparfummobil.id </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 @endsection

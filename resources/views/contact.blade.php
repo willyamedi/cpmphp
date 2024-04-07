@@ -53,15 +53,14 @@
                             <h3 class="wow fadeInUp" data-wow-delay=".3s">Contact Info</h3>
                             <div class="info-items mb-3 wow fadeInUp" data-wow-delay=".5s">
                                 <h5>Address</h5>
-                                <p>254, North City, Bulex Center, New York</p>
+                                <p>2Green village blok boulevard D no 5, Jl. KH Hasyim Ashari, RT.001/RW.007, Nerogtog, Kec. Pinang, Kota Tangerang, Banten 15146, Indonesia</p>
                             </div>
                             <div class="info-items mb-3 wow fadeInUp" data-wow-delay=".7s">
                                 <h5>Phone</h5>
-                                <a href="tel:+09354587874">09 (354) 587 874 </a> <span>or</span> <a href="tel:+698852741">10 (698) 852 741 </a>
-                            </div>
+                                <a href="tel:+6282126151151">+62821-26-151-151 </a>
                             <div class="info-items wow fadeInUp" data-wow-delay=".9s">
                                 <h5>Email</h5>
-                                <a href="#0">info@customparfummobil.id </a> <span>or</span>  <a href="#0">info@customparfummobil.id </a>
+                                <a href="#0">info@customparfummobil.id </a>
                             </div>
                         </div>
                     </div>

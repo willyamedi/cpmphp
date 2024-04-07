@@ -342,7 +342,7 @@
     </section>
 
 
-    <!-- 4 custom-->
+    <!-- 4 custom packaging-->
     <section class="team-section fix section-padding section-bg">
         <div class="container">
             <div class="section-title text-center">
