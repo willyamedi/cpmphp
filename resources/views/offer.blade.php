@@ -11,7 +11,7 @@
         </div>
         <div class="container">
             <div class="page-heading">
-                <h1 class="wow fadeInUp" data-wow-delay=".3s">Service Details</h1>
+                <h1 class="wow fadeInUp" data-wow-delay=".3s">Get an offer</h1>
                 <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                     <li>
                         <a href="index.html"> Home Page </a>
@@ -19,7 +19,7 @@
                     <li>
                         <i class="fal fa-minus"></i>
                     </li>
-                    <li>Service Details</li>
+                    <li>Get an offer</li>
                 </ul>
             </div>
         </div>
@@ -27,211 +27,212 @@
 
 
     <section class="Service-details fix section-padding">
-
-        <!-- 1 awal -->
-        <div class="container">
-            <div class="service-details-wrapper">
-                <div>
-                    <div class="service-details-content">
-                        <h2>
-                            Kami menyediakan 2 macam jenis custom yg dapat anda pilih
-                            sesuai dengan kebutuhan Anda:
-                        </h2>
-
-                        <div class="details-image bg-cover mt-4"
-                            style="background-image: url('assets/img/service/details.jpg');">
-                        </div>
-                        <h3 class="details-title">1. Custom shape</h3>
-                        <p>
-                            Pilihan custom bagi Anda yang ingin custom pewangi mobil
-                            dengan bentuk cutting atau shape sesuai dengan design yang
-                            Anda inginkan. Cocok bagi Anda yang ingin memiliki pewangi
-                            mobil dengan design yang unik sesuai dengan kebutuhan Anda.
-                        </p>
-                        <div class="service-details-list mt-5">
-                            <div class="row g-4 justify-content-between">
-                                <div>
-                                    <div class="goal-list">
-                                        <h3 class="details-title">Ketentuan</h3>
-                                        <ul>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Minimum
-                                                order 50 pcs / shape (bentuk)
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Ukuran max 8
-                                                x 12 cm
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Harga
-                                                dihitung berdasarkan jumlah order, Bukan berdasarkan
-                                                ukuran
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Bebas
-                                                menggunakan berapapun warna dalam design
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Waktu
-                                                produksi tergantung dari jumlah kuantiti yang
-                                                dipesan
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Sudah
-                                                mendapatkan standar packaging plastik vacuum bening
-                                                11 x 16 cm
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-
-                        <div class="details-image bg-cover mt-4"
-                            style="background-image: url('assets/img/service/details.jpg');">
-                        </div>
-                        <h3 class="details-title">2. Custom basic</h3>
-                        <p>
-                            Pilihan custom bagi Anda yang ingin custom pewangi mobil tanpa adanya minimum order. Anda bebas
-                            menentukan gambar. Namun, untuk bentuk cutting atau shapenya terbatas pada 5 pilihan shape yang
-                            kami sediakan : Kotak, persegi panjang, bulat, landscape, dan hippie tree
-                        </p>
-                        <div class="service-details-list mt-5">
-                            <div class="row g-4 justify-content-between">
-                                <div>
-                                    <div class="goal-list">
-                                        <h3 class="details-title">Ketentuan</h3>
-                                        <ul>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Tidak ada minimum order
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Pilihan shape : Kotak. persegi
-                                                panjang, bulat, landscape, hippie tree
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Jumlah design yang bisa Anda pakai
-                                                sesuai dengan jumlah order Anda
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Ukuran shape mengikuti template yang
-                                                kami sediakan
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Bebas menggunakan berapapun warna
-                                                dalam design
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Sudah
-                                                mendapatkan standar packaging plastik vacuum bening
-                                                11 x 16 cm
-                                            </li>
-                                            <li>
-                                                <i class="flaticon-check-mark me-3"></i>Waktu produksi tergantung dari
-                                                jumlah kuantiti yang dipesan
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-
-
-        <!-- 2 pilihan aroma -->
-        <div class="container">
-            <div class="section-title">
-                <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                    PILIHAN AROMA
-                </h2>
-                <p>
-                    Pilihan custom bagi Anda yang ingin custom pewangi mobil tanpa adanya minimum order.
-                    Anda bebas menentukan gambar. Namun, untuk bentuk cutting atau shapenya terbatas
-                    pada 5 pilihan shape yang kami sediakan : Kotak, persegi panjang, bulat, landscape,
-                    dan hippie tree
-                </p>
-            </div>
-        </div>
-        <div class="project-wrapper style-2">
-            <div class="swiper project-slider-2">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="project-items-2 style-2">
-                            <div class="project-image">
-                                <img src="assets/img/project/09.jpg" alt="project-img">
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                                <div class="project-content">
-                                    <p>San Fransisco </p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="project-items-2 style-2">
-                            <div class="project-image">
-                                <img src="assets/img/project/10.jpg" alt="project-img">
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                                <div class="project-content">
-                                    <p>San Fransisco </p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="project-items-2 style-2">
-                            <div class="project-image">
-                                <img src="assets/img/project/11.jpg" alt="project-img">
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                                <div class="project-content">
-                                    <p>San Fransisco </p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="project-items-2 style-2">
-                            <div class="project-image">
-                                <img src="assets/img/project/12.jpg" alt="project-img">
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                                <div class="project-content">
-                                    <p>San Fransisco </p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
+
+    <!-- 1 awal -->
+    <div class="container">
+        <div class="service-details-wrapper">
+            <div>
+                <div class="service-details-content">
+                    <h2>
+                        Kami menyediakan 2 macam jenis custom yg dapat anda pilih
+                        sesuai dengan kebutuhan Anda:
+                    </h2>
+
+                    <div class="details-image bg-cover mt-4"
+                        style="background-image: url('assets/img/service/details.jpg');">
+                    </div>
+                    <h3 class="details-title">1. Custom shape</h3>
+                    <p>
+                        Pilihan custom bagi Anda yang ingin custom pewangi mobil
+                        dengan bentuk cutting atau shape sesuai dengan design yang
+                        Anda inginkan. Cocok bagi Anda yang ingin memiliki pewangi
+                        mobil dengan design yang unik sesuai dengan kebutuhan Anda.
+                    </p>
+                    <div class="service-details-list mt-5">
+                        <div class="row g-4 justify-content-between">
+                            <div>
+                                <div class="goal-list">
+                                    <h3 class="details-title">Ketentuan</h3>
+                                    <ul>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Minimum
+                                            order 50 pcs / shape (bentuk)
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Ukuran max 8
+                                            x 12 cm
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Harga
+                                            dihitung berdasarkan jumlah order, Bukan berdasarkan
+                                            ukuran
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Bebas
+                                            menggunakan berapapun warna dalam design
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Waktu
+                                            produksi tergantung dari jumlah kuantiti yang
+                                            dipesan
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Sudah
+                                            mendapatkan standar packaging plastik vacuum bening
+                                            11 x 16 cm
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="details-image bg-cover mt-4"
+                        style="background-image: url('assets/img/service/details2.jpg');">
+                    </div>
+                    <h3 class="details-title">2. Custom basic</h3>
+                    <p>
+                        Pilihan custom bagi Anda yang ingin custom pewangi mobil tanpa adanya minimum order. Anda bebas
+                        menentukan gambar. Namun, untuk bentuk cutting atau shapenya terbatas pada 5 pilihan shape yang
+                        kami sediakan : Kotak, persegi panjang, bulat, landscape, dan hippie tree
+                    </p>
+                    <div class="service-details-list mt-5">
+                        <div class="row g-4 justify-content-between">
+                            <div>
+                                <div class="goal-list">
+                                    <h3 class="details-title">Ketentuan</h3>
+                                    <ul>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Tidak ada minimum order
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Pilihan shape : Kotak. persegi
+                                            panjang, bulat, landscape, hippie tree
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Jumlah design yang bisa Anda pakai
+                                            sesuai dengan jumlah order Anda
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Ukuran shape mengikuti template yang
+                                            kami sediakan
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Bebas menggunakan berapapun warna
+                                            dalam design
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Sudah
+                                            mendapatkan standar packaging plastik vacuum bening
+                                            11 x 16 cm
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-check-mark me-3"></i>Waktu produksi tergantung dari
+                                            jumlah kuantiti yang dipesan
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- 2 pilihan aroma -->
+    <div class="container">
+        <div class="section-title">
+            <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                PILIHAN AROMA
+            </h2>
+            <p>
+                Pilihan custom bagi Anda yang ingin custom pewangi mobil tanpa adanya minimum order.
+                Anda bebas menentukan gambar. Namun, untuk bentuk cutting atau shapenya terbatas
+                pada 5 pilihan shape yang kami sediakan : Kotak, persegi panjang, bulat, landscape,
+                dan hippie tree
+            </p>
+        </div>
+    </div>
+    <div class="project-wrapper style-2">
+        <div class="swiper project-slider-2">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="project-items-2 style-2">
+                        <div class="project-image">
+                            <img src="assets/img/project/09.jpg" alt="project-img">
+                            <a href="project-details.html" class="icon">
+                                <i class="flaticon-next"></i>
+                            </a>
+                            <div class="project-content">
+                                <p>San Fransisco </p>
+                                <h4>
+                                    <a href="project-details.html">Digital Consulting</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="project-items-2 style-2">
+                        <div class="project-image">
+                            <img src="assets/img/project/10.jpg" alt="project-img">
+                            <a href="project-details.html" class="icon">
+                                <i class="flaticon-next"></i>
+                            </a>
+                            <div class="project-content">
+                                <p>San Fransisco </p>
+                                <h4>
+                                    <a href="project-details.html">Digital Consulting</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="project-items-2 style-2">
+                        <div class="project-image">
+                            <img src="assets/img/project/11.jpg" alt="project-img">
+                            <a href="project-details.html" class="icon">
+                                <i class="flaticon-next"></i>
+                            </a>
+                            <div class="project-content">
+                                <p>San Fransisco </p>
+                                <h4>
+                                    <a href="project-details.html">Digital Consulting</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="project-items-2 style-2">
+                        <div class="project-image">
+                            <img src="assets/img/project/12.jpg" alt="project-img">
+                            <a href="project-details.html" class="icon">
+                                <i class="flaticon-next"></i>
+                            </a>
+                            <div class="project-content">
+                                <p>San Fransisco </p>
+                                <h4>
+                                    <a href="project-details.html">Digital Consulting</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- end sect 2 -->
 
 
@@ -250,7 +251,7 @@
 
                     <div class="service-card-items style-2 text-center">
                         <div class="icon">
-                            <i class="flaticon-curve"></i>
+                            <i class="air-traffic-control"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -522,10 +523,4 @@
             </div>
         </div>
     </section>
-
-
-
-
-
-
-    @endsection
+@endsection
