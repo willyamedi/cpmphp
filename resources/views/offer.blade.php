@@ -149,7 +149,7 @@
 
 
     <!-- 2 pilihan aroma -->
-    <div class="container">
+    <div class="container mt-5">
         <div class="section-title">
             <h2 class="wow fadeInUp" data-wow-delay=".3s">
                 PILIHAN AROMA
@@ -238,7 +238,7 @@
 
 
     <!-- 3 cara pemesanan -->
-    <section class="service-section" id="service">
+    <section class="service-section mt-5" id="service">
         <div class="container">
             <div class="section-title">
                 <h2 class="wow fadeInUp" data-wow-delay=".3s">
@@ -435,7 +435,7 @@
     </section>
 
     <!--6 Project Section Start -->
-    <section class="project-section fix section-padding pt-0">
+    <section class="project-section fix section-padding pt-0 pt-5">
         <div class="shape-left">
             <img src="assets/img/project/shape-left.png" alt="shape-img">
         </div>

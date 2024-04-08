@@ -1,0 +1,22 @@
+.header-logo img {
+    height: 50px;
+}
+
+.header-logo-2 img {
+    height: 50px;
+}
+
+.footer-logo {
+    height: 50px;
+}
+
+.line-area {
+    display: none;
+}
+
+.project-wrapper .swiper-slide.swiper-slide-active .project-items-2 .project-image::after {
+    opacity: 0.502;
+    visibility: visible;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}

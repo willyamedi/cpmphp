@@ -328,7 +328,7 @@
 
 
     <!-- contact us -->
-    <div class="col-xl-6 col-lg-6 mt-5 mt-lg-0">
+    <div class="col-xl-6 col-lg-6 mt-5 mt-lg-5 mb-5">
         <div class="contact-info-content">
             <div class="section-title wow fadeInUp" data-wow-delay=".3s">
                 <h2>Hubungi kami</h2>

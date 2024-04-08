@@ -6,10 +6,10 @@
                     <div class="header-main">
                         <div class="logo">
                             <a href="/" class="header-logo">
-                                <img src="assets/img/logo/footer-logo.svg" alt="logo-img" />
+                                <img src="assets/img/logo/footer-logo.png" alt="logo-img" />
                             </a>
                             <a href="/" class="header-logo-2">
-                                <img src="assets/img/logo/header-logo.svg" alt="logo-img" />
+                                <img src="assets/img/logo/header-logo.png" alt="logo-img" />
                             </a>
                         </div>
                         <div class="header-left">

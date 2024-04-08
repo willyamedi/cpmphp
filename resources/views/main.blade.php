@@ -12,6 +12,7 @@
     <title>Custom parfum mobil Indonesia</title>
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="{{ asset('assets/img/logo/favicon.svg') }}" />
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <!--<< Bootstrap min.css >>-->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" />
     <!--<< Font Awesome.css >>-->
@@ -30,6 +31,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}" />
     <!--<< Style.css >>-->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}" />
   </head>
 
   <body>

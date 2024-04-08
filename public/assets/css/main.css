@@ -682,7 +682,7 @@ input.main-search-input::placeholder {
   position: relative;
   z-index: 99;
   margin-bottom: 30px;
-  margin-top: 140px;
+  margin-top: -6px;
 }
 
 @media (max-width: 767px) {

@@ -13,7 +13,7 @@
          <div class="single-footer-widget">
            <div class="widget-head">
              <a href="index.html">
-               <img src="assets/img/logo/footer-logo.svg" alt="logo-img" />
+               <img class="footer-logo" src="assets/img/logo/footer-logo.png" alt="logo-img" />
              </a>
            </div>
            <div class="footer-content">
