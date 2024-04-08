@@ -22,14 +22,11 @@
                Ashari, RT.001/RW.007, <br />Nerogtog, Kec. Pinang,<br />
                Kota Tangerang, Banten 15146
              </p>
-             <h6><a href="tel:+6282126151151">+62 821-26-151-151</a></h6>
+             <h6><a href="{{ $whatsapp }}">+62 821-26-151-151</a></h6>
+             {{-- <h6><a href="https://wa.me/6282126151151">+62 821-26-151-151</a></h6> --}}
              <div class="social-icon d-flex align-items-center">
                <a href="#"><i class="fab fa-facebook-f"></i></a>
-               <a href="#"><i class="fab fa-twitter"></i></a>
-               <a href="#" class="active"
-                 ><i class="fab fa-vimeo-v"></i
-               ></a>
-               <a href="#"><i class="fab fa-pinterest-p"></i></a>
+               <a href="#"><i class="fab fa-instagram"></i></a>
              </div>
            </div>
          </div>

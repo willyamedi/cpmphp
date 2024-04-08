@@ -1,6 +1,9 @@
 @extends('main')
 
 @section('content')
+    @php
+        $whatsapp = 'https://wa.me/6282126151151';
+    @endphp
     <!-- Hero Section Start -->
     <section class="hero-section-3">
         <div class="line-area">
@@ -33,7 +36,7 @@
                                             Indonesia, Bisnis.com, Viva
                                         </p>
                                         <div class="hero-button">
-                                            <a href="about.html" data-animation="fadeInUp" data-delay="1.9s"
+                                            <a href="{{ $whatsapp }}" data-animation="fadeInUp" data-delay="1.9s"
                                                 class="theme-btn hover-white">KONSULTASI SEKARANG</a>
                                         </div>
                                     </div>

@@ -251,7 +251,7 @@
 
                     <div class="service-card-items style-2 text-center">
                         <div class="icon">
-                            <i class="air-traffic-control"></i>
+                            <i class="ph ph-wechat-logo"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -264,9 +264,9 @@
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay=".7s">
-                    <div class="service-card-items text-center style-2 active">
+                    <div class="service-card-items text-center style-2">
                         <div class="icon">
-                            <i class="flaticon-travel-agency"></i>
+                            <i class="ph ph-paint-brush"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -281,7 +281,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay=".9s">
                     <div class="service-card-items text-center style-2">
                         <div class="icon">
-                            <i class="flaticon-mobile-app"></i>
+                            <i class="ph ph-image"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -296,7 +296,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="1.1s">
                     <div class="service-card-items text-center style-2">
                         <div class="icon">
-                            <i class="flaticon-mobile-app"></i>
+                            <i class="ph ph-printer"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -311,7 +311,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="1.3s">
                     <div class="service-card-items text-center style-2">
                         <div class="icon">
-                            <i class="flaticon-travel-agency"></i>
+                            <i class="ph ph-check-square-offset"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -326,7 +326,7 @@
                 <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="1.5s">
                     <div class="service-card-items text-center style-2">
                         <div class="icon">
-                            <i class="flaticon-mobile-app"></i>
+                            <i class="ph ph-package"></i>
                         </div>
                         <div class="content">
                             <h5>
@@ -364,42 +364,42 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="team-card-items">
-                        <div class="team-image bg-cover" style="background-image: url(assets/img/team/05.jpg);">
+                        <div class="team-image bg-cover" style="background-image: url(assets/img/team/a1.png);">
                             <div class="team-content text-center">
                                 <h4>
                                     <a href="team-details.html">
-                                        Thomas Mullar
+                                        Tipe A1
                                     </a>
                                 </h4>
-                                <p>Designer</p>
+                                <p>Packaging</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
-                    <div class="team-card-items active">
-                        <div class="team-image bg-cover" style="background-image: url(assets/img/team/06.jpg);">
+                    <div class="team-card-items">
+                        <div class="team-image bg-cover" style="background-image: url(assets/img/team/a2.png);">
                             <div class="team-content text-center">
                                 <h4>
                                     <a href="team-details.html">
-                                        Janes Cooper
+                                        Tipe A2
                                     </a>
                                 </h4>
-                                <p>Designer</p>
+                                <p>Packaging</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                     <div class="team-card-items">
-                        <div class="team-image bg-cover" style="background-image: url(assets/img/team/07.jpg);">
+                        <div class="team-image bg-cover" style="background-image: url(assets/img/team/a3.png);">
                             <div class="team-content text-center">
                                 <h4>
                                     <a href="team-details.html">
-                                        Janes Mou
+                                        Tipe A3
                                     </a>
                                 </h4>
-                                <p>Designer</p>
+                                <p>Packaging</p>
                             </div>
                         </div>
                     </div>
@@ -422,14 +422,14 @@
                         Dapatkan penawaran menarik
                     </h2>
                     <div class="cta-button mt-4 wow fadeInUp" data-wow-delay=".5s">
-                        <a href="contact.html" class="theme-btn hover-white">
+                        <a href="https://wa.me/6282126151151" class="theme-btn hover-white">
                             Ya, saya mau
                         </a>
                     </div>
                 </div>
-                <div class="cta-image wow fadeInUp" data-wow-delay=".4s">
+                {{-- <div class="cta-image wow fadeInUp" data-wow-delay=".4s">
                     <img src="assets/img/cta.png" alt="img" />
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
@@ -448,21 +448,10 @@
                 <h2 class="wow fadeInUp" data-wow-delay=".3s">Check our latest projects</h2>
             </div>
             <div class="row">
-                <div class="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
+                <div class="col-lg-4">
                     <div class="project-items">
                         <div class="project-image">
                             <img src="assets/img/project/01.jpg" alt="project-img">
-                            <div class="project-content-area">
-                                <div class="content">
-                                    <p>San Fransisco</p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -470,17 +459,6 @@
                     <div class="project-items">
                         <div class="project-image">
                             <img src="assets/img/project/02.jpg" alt="project-img">
-                            <div class="project-content-area style-2">
-                                <div class="content">
-                                    <p>San Fransisco</p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -488,17 +466,7 @@
                     <div class="project-items">
                         <div class="project-image">
                             <img src="assets/img/project/03.jpg" alt="project-img">
-                            <div class="project-content-area style-2">
-                                <div class="content">
-                                    <p>San Fransisco</p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -506,17 +474,6 @@
                     <div class="project-items">
                         <div class="project-image">
                             <img src="assets/img/project/04.jpg" alt="project-img">
-                            <div class="project-content-area">
-                                <div class="content">
-                                    <p>San Fransisco</p>
-                                    <h4>
-                                        <a href="project-details.html">Digital Consulting</a>
-                                    </h4>
-                                </div>
-                                <a href="project-details.html" class="icon">
-                                    <i class="flaticon-next"></i>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
