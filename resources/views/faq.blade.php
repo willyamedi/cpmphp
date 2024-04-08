@@ -1,6 +1,9 @@
 @extends('main')
 
 @section('content')
+@php
+        $whatsapp = 'https://wa.me/6282126151151';
+    @endphp
     <!--<< Breadcrumb Section Start >>-->
     <div class="breadcrumb-wrapper section-padding bg-cover" style="background-image: url('assets/img/breadcrumb.jpg');">
         <div class="layer-shape wow fadeInLeft" data-wow-delay=".3s">
@@ -238,14 +241,14 @@
                         Dapatkan penawaran menarik
                     </h2>
                     <div class="cta-button mt-4 wow fadeInUp" data-wow-delay=".5s">
-                        <a href="contact.html" class="theme-btn hover-white">
+                        <a href="{{$whatsapp}}" class="theme-btn hover-white">
                             Ya, saya mau
                         </a>
                     </div>
                 </div>
-                <div class="cta-image wow fadeInUp" data-wow-delay=".4s">
+                {{-- <div class="cta-image wow fadeInUp" data-wow-delay=".4s">
                     <img src="assets/img/cta.png" alt="img" />
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
@@ -345,7 +348,7 @@
                 </div>
                 <div class="info-items mb-3 wow fadeInUp" data-wow-delay=".7s">
                     <h5>Phone</h5>
-                    <a href="tel:+6282126151151">+62821-26-151-151 </a>
+                    <a href="{{$whatsapp}}">+62821-26-151-151 </a>
                     <div class="info-items wow fadeInUp" data-wow-delay=".9s">
                         <h5>Email</h5>
                         <a href="#0">info@customparfummobil.id </a>
